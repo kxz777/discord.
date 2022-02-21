@@ -1,4 +1,4 @@
-<?php 
+<?php
     require("core/system/translation.php");
 ?>
 <meta charset="utf-8">
